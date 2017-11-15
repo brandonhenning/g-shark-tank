@@ -3,4 +3,3 @@
 - [ ] The relationship between the stated problem and the project is clearly defined
 - [ ] The user experience is described in full, including any inputs/outputs that experience will require
 - [ ] Technologies that will be used, including any APIs, are listed in full
-- [ ] If prompted, student can defend choice to use any given technology
