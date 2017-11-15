@@ -6,5 +6,5 @@ Galvanize Shark Tank requires you to put together project proposals for three di
 
 ```
 |- Communicate clearly about yourself and your work
-    |- Pitch projects
+    |- Write project proposals
 ```
