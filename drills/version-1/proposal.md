@@ -8,7 +8,7 @@ SoakMe is an app that simplifies the difficult process of soaking your faded whi
 White clothes are incredibly comfortable during the summer but fade with time and turn an off white yellowish color. Wouldn't it be nice to have that brand new white pure color again for that clothing item you love? Soaking clothes in bleach is a tedious process that most people would prefer not to do but do everyone loves that brand new white look for their white clothing and sheets. 
 
 ## How will your project solve this problem?
-SoakMe allows the user to simply open the app and request a pickup at their address of preference. From there they have a 24-hr turnaround to having that fresh white brand new look for their clothing, or bedding. The app takes away the hassle of bleaching your own laundry and allows anyone to have that brand new white clothing look!
+SoakMe allows the user to simply open the app and request a pickup at their address of preference. From there they have a 4-hr turnaround to having that fresh white brand new look for their clothing, or bedding. The app takes away the hassle of bleaching your own laundry and allows anyone to have that brand new white clothing look!
 
 
 ## Map the user experience
