@@ -19,8 +19,8 @@ Employees will open the app on their phone and login with their login given to t
 Employers will login and be taken to their landing page. It will have a section to create a new employee id and login. It will have a section to see all employees and see their in/out times and hours worked. They will also have a section to see a list of all employees currently clocked in. 
 
 ## What technologies do you plan to use?
-Vue.JS: client side GUI and mobile/web app
-Node: server side logic, data handling
-PostgresQL: database, employees, hours etc.
-AWS: hosting
-GoogleAPI: geolocation for employee login to verify on premises
+- Vue.JS: client side GUI and mobile/web app
+- Node: server side logic, data handling
+- PostgresQL: database, employees, hours etc.
+- AWS: hosting
+- GoogleAPI: geolocation for employee login to verify on premises
