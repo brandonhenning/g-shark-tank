@@ -14,7 +14,7 @@ TwoWordsOneCup will shake up the word game scene by tapping into the creative co
 
 
 ## Map the user experience
-The user will be prompted to create a login which they will be able to do using a Facebook or other social media login authorization. They will then be taken to a prompt to add friends, and will be given a lsit of suggested friends based on their contacts. They will then be taken to the landing page. The landing page will have a button to start a new game with a friend or random opponent. Once they select they will be taken to the gameboard and play the game! Once the game is over they will be prompted to play again or change opponents. 
+The user will be prompted to create a login which they will be able to do using a Facebook or other social media login authorization. They will then be taken to a prompt to add friends, and will be given a list of suggested friends based on their contacts. They will then be taken to the landing page. The landing page will have a button to start a new game with a friend or random opponent. Once they select they will be taken to the gameboard and play the game! Once the game is over they will be prompted to play again or change opponents. 
 
 
 ## What technologies do you plan to use?
